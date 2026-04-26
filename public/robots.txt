@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://tausur.github.io/texela/sitemap.xml
